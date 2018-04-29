@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/build/
+/.idea/
+/out/
+/gradle/
+/.gradle/
+/graphql-inmemory-sample.iml
+/gradlew
+/gradlew.bat
